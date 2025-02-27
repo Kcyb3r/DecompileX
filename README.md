@@ -19,13 +19,13 @@ DecompileX is a powerful tool for decompiling, analyzing, modifying, and recompi
 2. Install the required Python packages:
 
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 3. Run the tool:
 
    ```bash
-   python app_extractor.py
+   python3 app_extractor.py
    ```
 
 ## Usage
