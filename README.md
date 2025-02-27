@@ -1,6 +1,15 @@
 # DecompileX
-DecompileX is a powerful tool for decompiling, analyzing, modifying, and recompiling bytecode from various file formats, including APK, DEX, JAR, CLASS, and AppImage files. This tool is designed for developers, security researchers, and enthusiasts who want to explore the inner workings of bytecode.
 ![image](https://github.com/user-attachments/assets/e33db896-f5dc-4215-b202-006504aa7b5c)
+
+![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![GitHub Issues](https://img.shields.io/github/issues/Kcyb3r/DecompileX.svg)
+![GitHub Stars](https://img.shields.io/github/stars/Kcyb3r/DecompileX.svg)
+
+
+
+DecompileX is a powerful tool for decompiling, analyzing, modifying, and recompiling bytecode from various file formats, including APK, DEX, JAR, CLASS, and AppImage files. This tool is designed for developers, security researchers, and enthusiasts who want to explore the inner workings of bytecode.
+
 
 ## Features
 
