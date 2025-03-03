@@ -41,7 +41,7 @@ DecompileX is a powerful tool for decompiling, analyzing, modifying, and recompi
 
 ## Usage
 
-1. Launch the tool by running `app_extractor.py`.
+1. Launch the tool by running `decompilex.py`.
 2. Follow the prompts to enter the path to the bytecode file you want to analyze.
 3. The tool will automatically detect the file type and process it accordingly.
 
