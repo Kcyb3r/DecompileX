@@ -36,7 +36,7 @@ DecompileX is a powerful tool for decompiling, analyzing, modifying, and recompi
 3. Run the tool:
 
    ```bash
-   python3 app_extractor.py
+   python3 decompilex.py
    ```
 
 ## Usage
