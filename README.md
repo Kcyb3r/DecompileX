@@ -26,7 +26,7 @@ DecompileX is a powerful tool for decompiling, analyzing, modifying, and recompi
 
 ## Installation
 
-1. Clone the repository or download the `app_extractor.py` file.
+1. Clone the repository or download the `decompilex.py` file.
 2. Install the required Python packages:
 
    ```bash
