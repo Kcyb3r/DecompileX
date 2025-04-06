@@ -1,0 +1,6 @@
+pefile
+r2pipe
+python-magic
+capstone
+colorama
+javalang 
